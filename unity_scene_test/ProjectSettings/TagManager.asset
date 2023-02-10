@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Selectable
+  - NotSelectable
+  - SelectableAirBourne
+  - ScriptManager
+  - Handler
+  - PlayerAvatar
+  - Walkable
+  - SubCamera
+  - Selected
+  - RotationUI
+  - NPC
+  - TranslationUI
+  - NickName
+  - Myself
+  - ground
+  - Obstacle
+  - EffectManager
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MainUser
+  - Water
+  - UI
+  - Ground
+  - Movable
+  - NPC
+  - Selected
+  - Invisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Profile
+  - SelectRoom
+  - SelectCharacter
+  - TranslationUI
+  - TEXT
+  - RotationUI
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

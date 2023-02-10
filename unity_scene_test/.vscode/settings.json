@@ -1,0 +1,14 @@
+{
+    "omnisharp.useModernNet": false,
+    "omnisharp.useGlobalMono": "always",
+    "typescript.format.semicolons": "insert",
+    "javascript.format.semicolons": "insert",
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "editor.formatOnSave": true,
+    "smartsemicolon.autoLineChange": false,
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14
+}
