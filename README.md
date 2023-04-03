@@ -26,3 +26,5 @@
 
 7. Save/Load 테스트 : 오브젝트 Position & Rotation Json으로 저장/불러오기 테스트\
 7-1. 실제 프로젝트에선 React Native에서 json 형식으로 유니티로 통신, 서버에서 받거나 캐릭터/방 편집 후 변경된 json을 보내주면 파싱 후 필요한 정보 찾아서 반영
+
+8. 씬 변경 : PhotonNetwork.LoadLevel() 사용 할 때 로딩화면 추가 가능한지 테스트 - 가능
